@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(231, 208, 240, 0.932);
+    text-align: center;
+}
+
+h1{
+    color: rgb(14, 14, 100);
+}
+
+p{
+    color: rgb(71, 22, 134);
+    text-decoration: underline;
+}
